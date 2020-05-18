@@ -1,0 +1,102 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Design ♥",
+    "description": "",
+    "home_page_url": "https://PKtch.github.io/design",
+    "feed_url": "https://PKtch.github.io/design/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "PK"
+    },
+    "items": [
+        {
+            "id": "https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design.html",
+            "url": "https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design.html",
+            "title": "Allsvenskan UI and broadcast design",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/device1.png\" alt=\"\" width=\"1992\" height=\"2160\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/Scorebug-1.png\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-1-Copy-6.png\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-1-Copy-21.png\" width=\"5760\" height=\"3240\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-1-Copy-19.png\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<h3 id=\"mcetoc_1e89nv8ou2\"> </h3>\n<h3 id=\"mcetoc_1e89nv2af0\">Broadcast graphics ompositions / asymmetric grid</h3>\n<h3 id=\"mcetoc_1e89nv4741\"><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/anim-grid.gif\" width=\"1920\" height=\"1080\"></h3>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-Symetrisk-Asymetrisk-Copy-24.png\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-Symetrisk-Asymetrisk-Copy-29.png\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-Symetrisk-Asymetrisk-Copy-31.png\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-Symetrisk-Asymetrisk-Copy-42.png\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-Symetrisk-Asymetrisk-Copy-53.png\" width=\"1920\" height=\"1080\"></p>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-Symetrisk-Asymetrisk-Copy-25.png\" width=\"1920\" height=\"1080\"></p>\n<h3 id=\"mcetoc_1e89oku7i0\">Second league<br><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/7/HD-TV-1-Copy-14.png\" alt=\"\" width=\"1920\" height=\"1080\"></h3>\n<p><img class=\"post__image--full\" src=\"https://PKtch.github.io/design/media/posts/7/Scorebug-1-Copy.png\" alt=\"\" width=\"1920\" height=\"1080\"></p>",
+            "image": "https://PKtch.github.io/design/media/posts/7/main-a.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-14T15:54:29+02:00",
+            "date_modified": "2020-05-14T16:16:56+02:00"
+        },
+        {
+            "id": "https://PKtch.github.io/design/website.html",
+            "url": "https://PKtch.github.io/design/website.html",
+            "title": "Website Sixty",
+            "summary": " ",
+            "content_html": "<p> </p>\n<p><img class=\"post__image--full\" src=\"https://PKtch.github.io/design/media/posts/6/Pasted_image_at_2019-03-27__12_43_PM.png\" alt=\"\" width=\"1680\" height=\"1093\"></p>\n<p> <img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/6/Mockup3.png\" alt=\"\" width=\"1616\" height=\"1002\"></p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/6/test-device4.png\" width=\"1988\" height=\"1112\"></p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/6/60w-ico2.png\" width=\"1144\" height=\"1470\"></p>",
+            "image": "https://PKtch.github.io/design/media/posts/6/60w.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-13T17:13:34+02:00",
+            "date_modified": "2020-05-14T15:12:51+02:00"
+        },
+        {
+            "id": "https://PKtch.github.io/design/eshop-widget-over-broadcast.html",
+            "url": "https://PKtch.github.io/design/eshop-widget-over-broadcast.html",
+            "title": "eShop widget over broadcast ",
+            "summary": " ",
+            "content_html": "<p> </p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/5/v2.png\" width=\"995\" height=\"1013\"></p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/5/eshp.gif\" width=\"1200\" height=\"2400\"></p>",
+            "image": "https://PKtch.github.io/design/media/posts/5/v1.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-13T15:29:36+02:00",
+            "date_modified": "2020-05-13T16:55:24+02:00"
+        },
+        {
+            "id": "https://PKtch.github.io/design/poll.html",
+            "url": "https://PKtch.github.io/design/poll.html",
+            "title": "Different Poll Layouts",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p1.png\" alt=\"\" width=\"1010\" height=\"954\"></p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p2.png\" alt=\"\" width=\"1010\" height=\"954\"><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p3.png\" alt=\"\" width=\"1010\" height=\"954\"></p>",
+            "image": "https://PKtch.github.io/design/media/posts/2/Featured-poll.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-06T16:07:15+02:00",
+            "date_modified": "2020-05-14T14:15:08+02:00"
+        },
+        {
+            "id": "https://PKtch.github.io/design/what-i-do.html",
+            "url": "https://PKtch.github.io/design/what-i-do.html",
+            "title": "What I do",
+            "summary": "Et quia quibusdam et reprehenderit libero occaecati. Aspernatur unde tempore et. Alias cum dolores et rerum libero quia. Quo eos dolores ea consequatur necessitatibus maiores&hellip;",
+            "content_html": "<p>Et quia quibusdam et reprehenderit libero occaecati. Aspernatur unde tempore et. Alias cum dolores et rerum libero quia.</p>\n<p>Quo eos dolores ea consequatur necessitatibus maiores tempore. Et aut consequatur quo in nulla facilis voluptas. Iste voluptatibus corporis voluptatem reiciendis saepe quasi libero. Similique nostrum sed ex voluptatibus non nihil aspernatur quo.</p>\n<p>Qui rerum molestiae ad repudiandae aperiam et id. Laborum ut temporibus quae architecto. Fuga nulla laudantium optio.</p>",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-08T15:20:00+01:00",
+            "date_modified": "2020-05-13T15:35:08+02:00"
+        },
+        {
+            "id": "https://PKtch.github.io/design/singularity.html",
+            "url": "https://PKtch.github.io/design/singularity.html",
+            "title": "Golf App Interface ",
+            "summary": " ",
+            "content_html": "<p> </p>\n<h3 id=\"mcetoc_1e7gs6nb00\"> Quiz Interface<br><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/1/player.png\" width=\"1120\" height=\"1955\"></h3>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/1/Golf1.png\" width=\"2226\" height=\"1040\"></p>\n<p> </p>",
+            "image": "https://PKtch.github.io/design/media/posts/1/css-g4.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-26T02:24:38+02:00",
+            "date_modified": "2020-05-13T16:54:03+02:00"
+        }
+    ]
+}
