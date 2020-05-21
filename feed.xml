@@ -3,12 +3,34 @@
     <title>Design ♥</title>
     <link href="https://PKtch.github.io/design/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/design" />
-    <updated>2020-05-19T01:15:06+02:00</updated>
+    <updated>2020-05-21T19:26:13+02:00</updated>
     <author>
         <name>PK</name>
     </author>
     <id>https://PKtch.github.io/design</id>
 
+    <entry>
+        <title>Linux Mobile OS Experience</title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/linux-mobile-os-experience.html"/>
+        <id>https://PKtch.github.io/design/linux-mobile-os-experience.html</id>
+
+        <updated>2020-05-21T19:04:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/8/L5-1.png" alt="" />
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590030405127,"type":"publii-paragraph","content":"Interface Design- Librem Essential Apps","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590029551228,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/8/Group-25.png","imageHeight":1585,"imageWidth":882,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590029598717,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/8/Group-26.png","imageHeight":2160,"imageWidth":3840,"alt":"","caption":""},"config":{"imageAlign":"full","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590080622238,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590080628876,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/8/Group-16-Copy-3.png","imageHeight":1585,"imageWidth":881,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/8/L5-1.png" alt="" />
+                [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590030405127,"type":"publii-paragraph","content":"Interface Design- Librem Essential Apps","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590029551228,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/8/Group-25.png","imageHeight":1585,"imageWidth":882,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590029598717,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/8/Group-26.png","imageHeight":2160,"imageWidth":3840,"alt":"","caption":""},"config":{"imageAlign":"full","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590080622238,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590080628876,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/8/Group-16-Copy-3.png","imageHeight":1585,"imageWidth":881,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Allsvenskan UI and broadcast design</title>
         <author>
