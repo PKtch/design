@@ -3,7 +3,7 @@
     <title>Design ♥</title>
     <link href="https://PKtch.github.io/design/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/design" />
-    <updated>2020-05-24T20:32:22+02:00</updated>
+    <updated>2020-05-24T20:43:56+02:00</updated>
     <author>
         <name>PK</name>
     </author>
@@ -209,17 +209,17 @@
         <link href="https://PKtch.github.io/design/podbike-display-on-your-phone.html"/>
         <id>https://PKtch.github.io/design/podbike-display-on-your-phone.html</id>
 
-        <updated>2020-05-24T20:31:53+02:00</updated>
+        <updated>2020-05-24T20:43:28+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/15/PodBike2.png" alt="" />
+                        <img src="https://PKtch.github.io/design/media/posts/15/PodBike3.png" alt="" />
                     [{"id":1555941466744,"type":"publii-paragraph","content":"To avoid redundancy and lower the costs, PodBike will use driver's phone as a display.&nbsp; Depends on placement of mobile, it may be required to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/15/PodBike2.png" alt="" />
-                [{"id":1555941466744,"type":"publii-paragraph","content":"To avoid redundancy and lower the costs, PodBike will use driver's phone as a display.&nbsp; Depends on placement of mobile, it may be required to change orientation of a phone.&nbsp;<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590293305230,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/15/PodBike3.png","imageHeight":2190,"imageWidth":3912,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590294171620,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/15/PodBike5.png","imageHeight":1524,"imageWidth":4352,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+                    <img src="https://PKtch.github.io/design/media/posts/15/PodBike3.png" alt="" />
+                [{"id":1555941466744,"type":"publii-paragraph","content":"To avoid redundancy and lower the costs, PodBike will use driver's phone as a display.&nbsp; Depends on placement of mobile, it may be required to change orientation of a phone.&nbsp;<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590293305230,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/15/PodBike4.png","imageHeight":2190,"imageWidth":3912,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590294171620,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/15/PodBike5.png","imageHeight":1524,"imageWidth":4352,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
