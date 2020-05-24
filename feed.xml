@@ -3,12 +3,34 @@
     <title>Design ♥</title>
     <link href="https://PKtch.github.io/design/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/design" />
-    <updated>2020-05-21T21:43:05+02:00</updated>
+    <updated>2020-05-24T05:50:54+02:00</updated>
     <author>
         <name>PK</name>
     </author>
     <id>https://PKtch.github.io/design</id>
 
+    <entry>
+        <title>Broadcast Experience in Portrait Mode</title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/broadcast-experience-in-portrait-mode.html"/>
+        <id>https://PKtch.github.io/design/broadcast-experience-in-portrait-mode.html</id>
+
+        <updated>2020-05-24T04:58:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/13/News.png" alt="" />
+                    [{"id":1590288374654,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-19.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590287557943,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-16.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590287684722,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-17.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590286668563,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-18.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590286457057,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Logo.png","imageHeight":972,"imageWidth":1728,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/13/News.png" alt="" />
+                [{"id":1590288374654,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-19.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590287557943,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-16.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590287684722,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-17.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590286668563,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Artboard-Copy-18.png","imageHeight":1713,"imageWidth":2463,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590286457057,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/13/Logo.png","imageHeight":972,"imageWidth":1728,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Linux Mobile OS Experience</title>
         <author>
@@ -73,24 +95,20 @@
         <author>
             <name>PK</name>
         </author>
-        <link href="https://PKtch.github.io/design/website.html"/>
-        <id>https://PKtch.github.io/design/website.html</id>
+        <link href="https://PKtch.github.io/design/website-sixty.html"/>
+        <id>https://PKtch.github.io/design/website-sixty.html</id>
 
-        <updated>2020-05-14T15:12:51+02:00</updated>
+        <updated>2020-05-24T04:03:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/6/60w.png" alt="" />
-                     
+                        <img src="https://PKtch.github.io/design/media/posts/14/Main.png" alt="" />
+                    [{"id":1590285410859,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-8.png","imageHeight":3094,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285008669,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Saying.png","imageHeight":1376,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285008414,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-2.png","imageHeight":3426,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285008134,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Saying-Copy.png","imageHeight":3426,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285146936,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/BL.png","imageHeight":1620,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285218481,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-7.png","imageHeight":1842,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590284936210,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-6.png","imageHeight":2784,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/6/60w.png" alt="" />
-                <p> </p>
-<p><img class="post__image--full" src="https://PKtch.github.io/design/media/posts/6/Pasted_image_at_2019-03-27__12_43_PM.png" alt="" width="1680" height="1093"></p>
-<p> <img class="post__image--wide" src="https://PKtch.github.io/design/media/posts/6/Mockup3.png" alt="" width="1616" height="1002"></p>
-<p><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/6/test-device4.png" width="1988" height="1112"></p>
-<p><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/6/60w-ico2.png" width="1144" height="1470"></p>
+                    <img src="https://PKtch.github.io/design/media/posts/14/Main.png" alt="" />
+                [{"id":1590285410859,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-8.png","imageHeight":3094,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285008669,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Saying.png","imageHeight":1376,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285008414,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-2.png","imageHeight":3426,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285008134,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Saying-Copy.png","imageHeight":3426,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285146936,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/BL.png","imageHeight":1620,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590285218481,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-7.png","imageHeight":1842,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590284936210,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/14/Text-Copy-6.png","imageHeight":2784,"imageWidth":2880,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
@@ -127,18 +145,12 @@
         <link href="https://PKtch.github.io/design/poll.html"/>
         <id>https://PKtch.github.io/design/poll.html</id>
 
-        <updated>2020-05-14T14:15:08+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/2/Featured-poll.png" alt="" />
-                     
-                ]]>
-            </summary>
+        <updated>2020-05-24T04:06:11+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://PKtch.github.io/design/media/posts/2/Featured-poll.png" alt="" />
-                <p><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/2/p1.png" alt="" width="1010" height="954"></p>
-<p><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/2/p2.png" alt="" width="1010" height="954"><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/2/p3.png" alt="" width="1010" height="954"></p>
+                <p><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/2/p2.png" alt="" width="1010" height="954"><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/2/p3.png" alt="" width="1010" height="954"></p>
             ]]>
         </content>
     </entry>
@@ -186,6 +198,50 @@
 <h3 id="mcetoc_1e7gs6nb00"> Quiz Interface<br><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/1/player.png" width="1120" height="1955"></h3>
 <p><img class="post__image--wide" src="https://PKtch.github.io/design/media/posts/1/Golf1.png" width="2226" height="1040"></p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sensor Application System</title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/sensor-application-system.html"/>
+        <id>https://PKtch.github.io/design/sensor-application-system.html</id>
+
+        <updated>2020-05-24T02:45:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/12/t1.JPG" alt="" />
+                    [{"id":1590268960586,"type":"publii-list","content":"Product Design /Solution DevelopmentExperience an Interface DesignBranding DesignFront-End Development","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590268904869,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/12/t2.JPG","imageHeight":{},"imageWidth":{},"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590268881729,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/12/t3.JPG","imageHeight":{},"imageWidth":{},"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/12/t1.JPG" alt="" />
+                [{"id":1590268960586,"type":"publii-list","content":"<li>Product Design /Solution Development</li><li>Experience an Interface Design</li><li>Branding Design</li><li>Front-End Development</li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590268904869,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/12/t2.JPG","imageHeight":{},"imageWidth":{},"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590268881729,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/12/t3.JPG","imageHeight":{},"imageWidth":{},"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BonaMea- Documents Mangement System  </title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/bonamea-documents-mangement-system.html"/>
+        <id>https://PKtch.github.io/design/bonamea-documents-mangement-system.html</id>
+
+        <updated>2020-05-23T22:47:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/9/Untitled.png" alt="" />
+                    [{"id":1590266561131,"type":"publii-list","content":"Product Design /Solution DevelopmentExperience an Interface Design Branding DesignFront-End Development","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590265033521,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b1.png","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266612733,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b4.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266611968,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266582014,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2a.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266683055,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/9/Untitled.png" alt="" />
+                [{"id":1590266561131,"type":"publii-list","content":"<li>Product Design /Solution Development</li><li>Experience an Interface Design<br></li><li>Branding Design</li><li>Front-End Development</li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590265033521,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b1.png","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266612733,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b4.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266611968,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266582014,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2a.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266683055,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
