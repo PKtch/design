@@ -3,7 +3,7 @@
     <title>Design ♥</title>
     <link href="https://PKtch.github.io/design/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/design" />
-    <updated>2020-05-24T20:45:26+02:00</updated>
+    <updated>2020-05-25T18:05:18+02:00</updated>
     <author>
         <name>PK</name>
     </author>
@@ -98,7 +98,7 @@
         <link href="https://PKtch.github.io/design/website-sixty.html"/>
         <id>https://PKtch.github.io/design/website-sixty.html</id>
 
-        <updated>2020-05-24T04:03:56+02:00</updated>
+        <updated>2020-05-25T15:37:44+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://PKtch.github.io/design/media/posts/14/Main.png" alt="" />
@@ -155,28 +155,6 @@
         </content>
     </entry>
     <entry>
-        <title>What I do</title>
-        <author>
-            <name>PK</name>
-        </author>
-        <link href="https://PKtch.github.io/design/what-i-do.html"/>
-        <id>https://PKtch.github.io/design/what-i-do.html</id>
-
-        <updated>2020-05-13T15:35:08+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Et quia quibusdam et reprehenderit libero occaecati. Aspernatur unde tempore et. Alias cum dolores et rerum libero quia. Quo eos dolores ea consequatur necessitatibus maiores&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Et quia quibusdam et reprehenderit libero occaecati. Aspernatur unde tempore et. Alias cum dolores et rerum libero quia.</p>
-<p>Quo eos dolores ea consequatur necessitatibus maiores tempore. Et aut consequatur quo in nulla facilis voluptas. Iste voluptatibus corporis voluptatem reiciendis saepe quasi libero. Similique nostrum sed ex voluptatibus non nihil aspernatur quo.</p>
-<p>Qui rerum molestiae ad repudiandae aperiam et id. Laborum ut temporibus quae architecto. Fuga nulla laudantium optio.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Golf App Interface </title>
         <author>
             <name>PK</name>
@@ -184,7 +162,7 @@
         <link href="https://PKtch.github.io/design/singularity.html"/>
         <id>https://PKtch.github.io/design/singularity.html</id>
 
-        <updated>2020-05-13T16:54:03+02:00</updated>
+        <updated>2020-05-25T15:53:13+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://PKtch.github.io/design/media/posts/1/css-g4.png" alt="" />
@@ -197,6 +175,8 @@
                 <p> </p>
 <h3 id="mcetoc_1e7gs6nb00"> Quiz Interface<br><img class="post__image--center" src="https://PKtch.github.io/design/media/posts/1/player.png" width="1120" height="1955"></h3>
 <p><img class="post__image--wide" src="https://PKtch.github.io/design/media/posts/1/Golf1.png" width="2226" height="1040"></p>
+<figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/422435592?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" ></iframe></figure>
+<p> </p>
 <p> </p>
             ]]>
         </content>
@@ -209,16 +189,16 @@
         <link href="https://PKtch.github.io/design/podbike-display-on-your-phone.html"/>
         <id>https://PKtch.github.io/design/podbike-display-on-your-phone.html</id>
 
-        <updated>2020-05-24T20:43:28+02:00</updated>
+        <updated>2020-05-25T00:06:55+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/15/PodBike3.png" alt="" />
+                        <img src="https://PKtch.github.io/design/media/posts/15/PodBike3a.png" alt="" />
                     [{"id":1555941466744,"type":"publii-paragraph","content":"To avoid redundancy and lower the costs, PodBike will use driver's phone as a display.&nbsp; Depends on placement of mobile, it may be required to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/15/PodBike3.png" alt="" />
+                    <img src="https://PKtch.github.io/design/media/posts/15/PodBike3a.png" alt="" />
                 [{"id":1555941466744,"type":"publii-paragraph","content":"To avoid redundancy and lower the costs, PodBike will use driver's phone as a display.&nbsp; Depends on placement of mobile, it may be required to change orientation of a phone.&nbsp;<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1590293305230,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/15/PodBike4.png","imageHeight":2190,"imageWidth":3912,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590294171620,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/15/PodBike5.png","imageHeight":1524,"imageWidth":4352,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
             ]]>
         </content>
@@ -242,6 +222,28 @@
             <![CDATA[
                     <img src="https://PKtch.github.io/design/media/posts/12/t1.JPG" alt="" />
                 [{"id":1590268960586,"type":"publii-list","content":"<li>Product Design /Solution Development</li><li>Experience an Interface Design</li><li>Branding Design</li><li>Front-End Development</li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590268904869,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/12/t2.JPG","imageHeight":{},"imageWidth":{},"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590268881729,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/12/t3.JPG","imageHeight":{},"imageWidth":{},"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BonaMea- Documents Mangement System  </title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/bonamea-documents-mangement-system.html"/>
+        <id>https://PKtch.github.io/design/bonamea-documents-mangement-system.html</id>
+
+        <updated>2020-05-23T22:47:21+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/9/Untitled.png" alt="" />
+                    [{"id":1590266561131,"type":"publii-list","content":"Product Design /Solution DevelopmentExperience an Interface Design Branding DesignFront-End Development","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590265033521,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b1.png","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266612733,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b4.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266611968,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266582014,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2a.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266683055,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/9/Untitled.png" alt="" />
+                [{"id":1590266561131,"type":"publii-list","content":"<li>Product Design /Solution Development</li><li>Experience an Interface Design<br></li><li>Branding Design</li><li>Front-End Development</li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1590265033521,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b1.png","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266612733,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b4.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"wide","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266611968,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266582014,"type":"publii-image","content":{"image":"https://PKtch.github.io/design/media/posts/9/b2a.JPG","imageHeight":1199,"imageWidth":1600,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1590266683055,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
