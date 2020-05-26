@@ -89,7 +89,7 @@
             "url": "https://PKtch.github.io/design/poll.html",
             "title": "Different Poll Layouts",
             "summary": " ",
-            "content_html": "<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p2.png\" alt=\"\" width=\"1010\" height=\"954\"><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p3.png\" alt=\"\" width=\"1010\" height=\"954\"></p>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/422507821?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p> </p>\n<p> </p>",
+            "content_html": "<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p2.png\" alt=\"\" width=\"1010\" height=\"954\"><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/2/p3.png\" alt=\"\" width=\"1010\" height=\"954\"></p>\n<figure class=\"post__video post__video--wide\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/422507821?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p> </p>\n<p> </p>",
             "image": "https://PKtch.github.io/design/media/posts/2/Featured-poll.png",
             "author": {
                 "name": "PK"
@@ -97,14 +97,14 @@
             "tags": [
             ],
             "date_published": "2020-05-06T16:07:15+02:00",
-            "date_modified": "2020-05-26T00:16:44+02:00"
+            "date_modified": "2020-05-26T02:08:31+02:00"
         },
         {
             "id": "https://PKtch.github.io/design/singularity.html",
             "url": "https://PKtch.github.io/design/singularity.html",
             "title": "Golf App Interface ",
             "summary": " ",
-            "content_html": "<p> </p>\n<h3 id=\"mcetoc_1e7gs6nb00\"> Quiz Interface<br><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/1/player.png\" width=\"1120\" height=\"1955\"></h3>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/1/Golf1.png\" width=\"2226\" height=\"1040\"></p>\n<figure class=\"post__video\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/422435592?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p> </p>\n<p> </p>",
+            "content_html": "<p> </p>\n<h3 id=\"mcetoc_1e7gs6nb00\"> Quiz Interface<br><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/1/player.png\" width=\"1120\" height=\"1955\"></h3>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/1/Golf1.png\" width=\"2226\" height=\"1040\"></p>\n<figure class=\"post__video post__video--wide\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/422435592?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p> </p>\n<p> </p>",
             "image": "https://PKtch.github.io/design/media/posts/1/css-g4.png",
             "author": {
                 "name": "PK"
@@ -112,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2019-09-26T02:24:38+02:00",
-            "date_modified": "2020-05-25T15:53:13+02:00"
+            "date_modified": "2020-05-26T02:13:52+02:00"
         },
         {
             "id": "https://PKtch.github.io/design/podbike-display-on-your-phone.html",
