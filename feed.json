@@ -40,6 +40,21 @@
             "date_modified": "2020-05-21T21:42:35+02:00"
         },
         {
+            "id": "https://PKtch.github.io/design/platform-for-developing-alternative-models-of-living.html",
+            "url": "https://PKtch.github.io/design/platform-for-developing-alternative-models-of-living.html",
+            "title": "App for developing alternative models of living",
+            "summary": "[{\"id\":1592403564779,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/Artboard-Copy-20.png\",\"imageHeight\":2160,\"imageWidth\":3840,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1592404458468,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/desktop1-2.png\",\"imageHeight\":3921,\"imageWidth\":5760,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":1592403564779,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/Artboard-Copy-20.png\",\"imageHeight\":2160,\"imageWidth\":3840,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1592404458468,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/desktop1-2.png\",\"imageHeight\":3921,\"imageWidth\":5760,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "image": "https://PKtch.github.io/design/media/posts/18/Artboard-Copy-19.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-15T16:22:00+02:00",
+            "date_modified": "2020-06-17T16:35:24+02:00"
+        },
+        {
             "id": "https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design-2.html",
             "url": "https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design-2.html",
             "title": "Allsvenskan UI and broadcast design",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2016-05-23T23:22:00+02:00",
             "date_modified": "2020-05-24T02:45:22+02:00"
-        },
-        {
-            "id": "https://PKtch.github.io/design/bonamea-documents-mangement-system.html",
-            "url": "https://PKtch.github.io/design/bonamea-documents-mangement-system.html",
-            "title": "BonaMea- Documents Mangement System  ",
-            "summary": "[{\"id\":1590266561131,\"type\":\"publii-list\",\"content\":\"Product Design /Solution DevelopmentExperience an Interface Design Branding DesignFront-End Development\",\"config\":{\"listType\":\"ul\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590265033521,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/9/b1.png\",\"imageHeight\":1199,\"imageWidth\":1600,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590266612733,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/9/b4.JPG\",\"imageHeight\":1199,\"imageWidth\":1600,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590458886226,\"type\":\"publii-gallery\",\"content\":{\"images\":[{\"src\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2.png\",\"thumbnailSrc\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2-thumbnail.png\",\"height\":360,\"width\":480,\"dimensions\":\"1600x1199\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2a.png\",\"thumbnailSrc\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2a-thumbnail.png\",\"height\":360,\"width\":480,\"dimensions\":\"1600x1199\",\"alt\":\"\",\"caption\":\"\"}]},\"config\":{\"imageAlign\":\"center\",\"columns\":3,\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1590266561131,\"type\":\"publii-list\",\"content\":\"<li>Product Design /Solution Development</li><li>Experience an Interface Design<br></li><li>Branding Design</li><li>Front-End Development</li>\",\"config\":{\"listType\":\"ul\",\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590265033521,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/9/b1.png\",\"imageHeight\":1199,\"imageWidth\":1600,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590266612733,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/9/b4.JPG\",\"imageHeight\":1199,\"imageWidth\":1600,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590458886226,\"type\":\"publii-gallery\",\"content\":{\"images\":[{\"src\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2.png\",\"thumbnailSrc\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2-thumbnail.png\",\"height\":360,\"width\":480,\"dimensions\":\"1600x1199\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2a.png\",\"thumbnailSrc\":\"https://PKtch.github.io/design/media/posts/9/gallery/b2a-thumbnail.png\",\"height\":360,\"width\":480,\"dimensions\":\"1600x1199\",\"alt\":\"\",\"caption\":\"\"}]},\"config\":{\"imageAlign\":\"center\",\"columns\":3,\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "image": "https://PKtch.github.io/design/media/posts/9/Untitled.png",
-            "author": {
-                "name": "PK"
-            },
-            "tags": [
-            ],
-            "date_published": "2016-05-23T22:13:00+02:00",
-            "date_modified": "2020-05-26T04:10:02+02:00"
         }
     ]
 }
