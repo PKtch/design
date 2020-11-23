@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2020-05-14T15:36:00+02:00",
-            "date_modified": "2020-11-14T02:05:03+01:00"
+            "date_modified": "2020-11-23T20:40:59+01:00"
         },
         {
             "id": "https://PKtch.github.io/design/art-gallery-app.html",
@@ -72,7 +72,7 @@
         {
             "id": "https://PKtch.github.io/design/website-sixty.html",
             "url": "https://PKtch.github.io/design/website-sixty.html",
-            "title": "Website Sixty",
+            "title": "Website Design — Sixty Technologies",
             "summary": "[{\"id\":1590285410859,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-8.png\",\"imageHeight\":3094,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285008669,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Saying.png\",\"imageHeight\":1376,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285008414,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-2.png\",\"imageHeight\":3426,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285008134,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Saying-Copy.png\",\"imageHeight\":3426,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285146936,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/BL.png\",\"imageHeight\":1620,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285218481,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-7.png\",\"imageHeight\":1842,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590284936210,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-6.png\",\"imageHeight\":2784,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "content_html": "[{\"id\":1590285410859,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-8.png\",\"imageHeight\":3094,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285008669,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Saying.png\",\"imageHeight\":1376,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285008414,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-2.png\",\"imageHeight\":3426,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285008134,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Saying-Copy.png\",\"imageHeight\":3426,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285146936,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/BL.png\",\"imageHeight\":1620,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590285218481,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-7.png\",\"imageHeight\":1842,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1590284936210,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/14/Text-Copy-6.png\",\"imageHeight\":2784,\"imageWidth\":2880,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"wide\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "image": "https://PKtch.github.io/design/media/posts/14/Main.png",
@@ -82,14 +82,14 @@
             "tags": [
             ],
             "date_published": "2020-05-13T17:10:00+02:00",
-            "date_modified": "2020-05-25T15:37:44+02:00"
+            "date_modified": "2020-11-23T20:38:47+01:00"
         },
         {
             "id": "https://PKtch.github.io/design/eshop-widget-over-broadcast.html",
             "url": "https://PKtch.github.io/design/eshop-widget-over-broadcast.html",
             "title": "eShop widget over broadcast video",
             "summary": " ",
-            "content_html": "<p> </p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/5/v2.png\" width=\"995\" height=\"1013\"></p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/5/eshp.gif\" width=\"1200\" height=\"2400\"></p>",
+            "content_html": "<p> </p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/5/v2.png\" width=\"995\" height=\"1013\"></p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/5/eshp.gif\" width=\"550\" height=\"550\"></p>",
             "image": "https://PKtch.github.io/design/media/posts/5/v1.png",
             "author": {
                 "name": "PK"
@@ -97,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2020-05-13T15:29:36+02:00",
-            "date_modified": "2020-11-10T06:41:15+01:00"
+            "date_modified": "2020-11-23T20:33:06+01:00"
         },
         {
             "id": "https://PKtch.github.io/design/poll.html",
