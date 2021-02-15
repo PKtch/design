@@ -145,19 +145,19 @@
             "date_modified": "2020-11-10T16:08:38+01:00"
         },
         {
-            "id": "https://PKtch.github.io/design/singularity.html",
-            "url": "https://PKtch.github.io/design/singularity.html",
-            "title": "Golf App Interface ",
-            "summary": " ",
-            "content_html": "<p> </p>\n<h3 id=\"mcetoc_1e7gs6nb00\"> Quiz Interface<br><img class=\"post__image--center\" src=\"https://PKtch.github.io/design/media/posts/1/player.png\" width=\"1120\" height=\"1955\"></h3>\n<p><img class=\"post__image--wide\" src=\"https://PKtch.github.io/design/media/posts/1/Golf1.png\" width=\"2226\" height=\"1040\"></p>\n<figure class=\"post__video post__video--wide\"><iframe width=\"425\" height=\"350\" src=\"https://player.vimeo.com/video/422435592?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>\n<p> </p>\n<p> </p>",
-            "image": "https://PKtch.github.io/design/media/posts/1/css-g4.png",
+            "id": "https://PKtch.github.io/design/custom-font-design.html",
+            "url": "https://PKtch.github.io/design/custom-font-design.html",
+            "title": "Custom Font Design",
+            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Custom made tall and narrow condensed font that is most suitable for crafting titles for posters.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1613384801096,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/24/Poster2s.png\",\"imageHeight\":1000,\"imageWidth\":2000,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1613384759208,\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Custom made tall and narrow condensed font that is most suitable for crafting titles for posters.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1613384801096,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/24/Poster2s.png\",\"imageHeight\":1000,\"imageWidth\":2000,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1613384759208,\"type\":\"publii-paragraph\",\"content\":\"\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "image": "https://PKtch.github.io/design/media/posts/24/T32Fronts.png",
             "author": {
                 "name": "PK"
             },
             "tags": [
             ],
-            "date_published": "2019-09-26T02:24:38+02:00",
-            "date_modified": "2020-05-26T02:13:52+02:00"
+            "date_published": "2020-02-15T11:26:00+01:00",
+            "date_modified": "2021-02-15T11:28:47+01:00"
         }
     ]
 }
