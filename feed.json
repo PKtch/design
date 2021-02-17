@@ -28,16 +28,16 @@
             "id": "https://PKtch.github.io/design/platform-for-developing-alternative-models-of-living.html",
             "url": "https://PKtch.github.io/design/platform-for-developing-alternative-models-of-living.html",
             "title": "App for developing alternative models of living",
-            "summary": "[{\"id\":1592403564779,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/Artboard-Copy-20.png\",\"imageHeight\":2160,\"imageWidth\":3840,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1592404458468,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/desktop1-2.png\",\"imageHeight\":3921,\"imageWidth\":5760,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1592403564779,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/Artboard-Copy-20.png\",\"imageHeight\":2160,\"imageWidth\":3840,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1592404458468,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/desktop1-2.png\",\"imageHeight\":3921,\"imageWidth\":5760,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "image": "https://PKtch.github.io/design/media/posts/18/Artboard-Copy-19.png",
+            "summary": "[{\"id\":1592403564779,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/Artboard-s-20-xxxl.png\",\"imageHeight\":1440,\"imageWidth\":2560,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1592404458468,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/desktop1-2.png\",\"imageHeight\":3921,\"imageWidth\":5760,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":1592403564779,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/Artboard-s-20-xxxl.png\",\"imageHeight\":1440,\"imageWidth\":2560,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1592404458468,\"type\":\"publii-image\",\"content\":{\"image\":\"https://PKtch.github.io/design/media/posts/18/desktop1-2.png\",\"imageHeight\":3921,\"imageWidth\":5760,\"alt\":\"\",\"caption\":\"\"},\"config\":{\"imageAlign\":\"full\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "image": "https://PKtch.github.io/design/media/posts/18/Artboard-d-19-xxxl.png",
             "author": {
                 "name": "PK"
             },
             "tags": [
             ],
             "date_published": "2020-05-15T16:22:00+02:00",
-            "date_modified": "2020-06-17T16:35:24+02:00"
+            "date_modified": "2021-02-17T21:58:09+01:00"
         },
         {
             "id": "https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design-2.html",
