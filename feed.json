@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://PKtch.github.io/design/ansa-branding-and-website.html",
+            "url": "https://PKtch.github.io/design/ansa-branding-and-website.html",
+            "title": "ANSA design",
+            "image": "https://PKtch.github.io/design/media/posts/34/Frame-ansa.png",
+            "author": {
+                "name": "PK"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-24T00:35:44+01:00",
+            "date_modified": "2023-02-24T00:45:05+01:00"
+        },
+        {
             "id": "https://PKtch.github.io/design/broadcast-experience-in-portrait-mode.html",
             "url": "https://PKtch.github.io/design/broadcast-experience-in-portrait-mode.html",
             "title": "Broadcast Experience in Portrait Mode",
@@ -143,21 +156,6 @@
             ],
             "date_published": "2020-02-21T04:39:00+01:00",
             "date_modified": "2020-11-10T16:08:38+01:00"
-        },
-        {
-            "id": "https://PKtch.github.io/design/order.html",
-            "url": "https://PKtch.github.io/design/order.html",
-            "title": "Ordering Application",
-            "summary": " &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; ",
-            "content_html": "\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n  <p>\n    &nbsp;&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://PKtch.github.io/design/media/posts/26/diagram.png\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://PKtch.github.io/design/media/posts/26/responsive/diagram-xs.png 300w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-sm.png 480w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-md.png 749w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-xl.png 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-xxxl.png 2560w\"  height=\"542\" width=\"2136\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    &nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://PKtch.github.io/design/media/posts/26/Ordering-ba1.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-md.jpg 749w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xxxl.jpg 2560w\"  height=\"4664\" width=\"6000\" alt=\"\" />\n      \n    </figure>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://PKtch.github.io/design/media/posts/26/Ordering-ba2.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-md.jpg 749w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xxxl.jpg 2560w\"  height=\"4664\" width=\"6000\" alt=\"\" />\n      \n    </figure>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://PKtch.github.io/design/media/posts/26/restaurant.jpg\" sizes=\"(max-width: 2560px) 100vw, 2560px\" srcset=\"https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-md.jpg 749w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xxxl.jpg 2560w\"  height=\"4664\" width=\"6000\" alt=\"\" />\n      \n    </figure>\n\n    <figure class=\"max640 post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://PKtch.github.io/design/media/posts/26/ordr.gif\" height=\"1634\" width=\"1634\" alt=\"\" />\n      \n    </figure>",
-            "image": "https://PKtch.github.io/design/media/posts/26/order-vipps.png",
-            "author": {
-                "name": "PK"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-02-21T03:35:00+01:00",
-            "date_modified": "2021-03-31T03:20:43+02:00"
         }
     ]
 }
