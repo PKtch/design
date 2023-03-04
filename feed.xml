@@ -3,7 +3,7 @@
     <title>Designed with ♥</title>
     <link href="https://PKtch.github.io/design/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/design" />
-    <updated>2023-02-26T00:42:29+01:00</updated>
+    <updated>2023-03-04T12:18:06+01:00</updated>
     <author>
         <name>PK</name>
     </author>
@@ -43,77 +43,6 @@
 <p>UI components and blocs</p>
 <figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/UI-Components.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xxxl.png 2560w"  alt="" width="7575" height="3659"></figure>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Broadcast Experience in Portrait Mode</title>
-        <author>
-            <name>PK</name>
-        </author>
-        <link href="https://PKtch.github.io/design/broadcast-experience-in-portrait-mode.html"/>
-        <id>https://PKtch.github.io/design/broadcast-experience-in-portrait-mode.html</id>
-
-        <updated>2020-05-26T00:36:58+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/13/News.png" alt="" />
-                     News Broadcast Graphics Engaging News Audience With Interactive Infographics 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/13/News.png" alt="" />
-                
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/13/Artboard-Copy-19.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-19-xs.png 300w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-19-sm.png 480w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-19-md.png 749w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-19-xl.png 1200w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-19-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-19-xxxl.png 2560w"  height="1713" width="2463" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/13/2Artboard-Copy-16.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/13/responsive/2Artboard-Copy-16-xs.png 300w ,https://PKtch.github.io/design/media/posts/13/responsive/2Artboard-Copy-16-sm.png 480w ,https://PKtch.github.io/design/media/posts/13/responsive/2Artboard-Copy-16-md.png 749w ,https://PKtch.github.io/design/media/posts/13/responsive/2Artboard-Copy-16-xl.png 1200w ,https://PKtch.github.io/design/media/posts/13/responsive/2Artboard-Copy-16-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/13/responsive/2Artboard-Copy-16-xxxl.png 2560w"  height="1713" width="2463" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/13/Artboard-Copy-17.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-17-xs.png 300w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-17-sm.png 480w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-17-md.png 749w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-17-xl.png 1200w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-17-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-17-xxxl.png 2560w"  height="1713" width="2463" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/13/Artboard-Copy-18.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-18-xs.png 300w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-18-sm.png 480w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-18-md.png 749w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-18-xl.png 1200w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-18-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/13/responsive/Artboard-Copy-18-xxxl.png 2560w"  height="1713" width="2463" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/13/Logo.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/13/responsive/Logo-xs.png 300w ,https://PKtch.github.io/design/media/posts/13/responsive/Logo-sm.png 480w ,https://PKtch.github.io/design/media/posts/13/responsive/Logo-md.png 749w ,https://PKtch.github.io/design/media/posts/13/responsive/Logo-xl.png 1200w ,https://PKtch.github.io/design/media/posts/13/responsive/Logo-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/13/responsive/Logo-xxxl.png 2560w"  height="972" width="1728" alt="" />
-      
-    </figure>
-<div><figure class="post__video post__video--wide"><div class="post__iframe"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/422555751?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure><p> </p>
-</div>
-
-    <h4 id="related-broadcast-media-projects">
-      Related Broadcast Media Projects
-    </h4>
-
-  <p>
-    
-  </p>
-
-    <h2 id="news-broadcast-graphics">
-      News Broadcast Graphics
-    </h2>
-<div><figure class="post__video post__video--wide"><div class="post__iframe"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/422509259?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
-</div>
-
-    <h2 id="engaging-news-audience-with-interactive-infographics">
-      Engaging News Audience With Interactive Infographics
-    </h2>
-
-    <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/13/Promo-corona.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/13/responsive/Promo-corona-xs.png 300w ,https://PKtch.github.io/design/media/posts/13/responsive/Promo-corona-sm.png 480w ,https://PKtch.github.io/design/media/posts/13/responsive/Promo-corona-md.png 749w ,https://PKtch.github.io/design/media/posts/13/responsive/Promo-corona-xl.png 1200w ,https://PKtch.github.io/design/media/posts/13/responsive/Promo-corona-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/13/responsive/Promo-corona-xxxl.png 2560w"  height="3240" width="5760" alt="" />
-      
-    </figure>
             ]]>
         </content>
     </entry>
@@ -267,6 +196,47 @@
   <p>
     
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mobile Subscription Services</title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/mobile-subscription-services.html"/>
+        <id>https://PKtch.github.io/design/mobile-subscription-services.html</id>
+
+        <updated>2023-03-04T12:18:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/35/cover-pmbl2.png" alt="" />
+                    PlussMobil is part of Aller Media, one of Norway's largest media houses. PlussMobil rents a mobile network from Telenor and sells subscription services to Aller's&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/35/cover-pmbl2.png" alt="" />
+                <p>PlussMobil is part of Aller Media, one of Norway's largest media houses. PlussMobil rents a mobile network from Telenor and sells subscription services to Aller's  audience.</p>
+<h2>Subscription</h2>
+<p>Project challenge, was to convert visitor to subscriber while having to fill in long and complex steps (fixed decision) by providing more pleasant user interface and experience. These ware the foundation principles: </p>
+<ul>
+<li>Form steps to encourage user to finish the journey </li>
+<li>Using Emojies to make our forms more fun 🤙👌👏❤️</li>
+<li>Revealing form sections as they become relevant, not to scare subscriber</li>
+<li>Great mobile experience with cozy touch targets</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/cover12.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/cover12-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xxxl.png 2560w"  alt="" width="3080" height="1897"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/pmbl3-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xxxl.png 2560w"  alt="" width="1588" height="3494"></figure>
+<p> </p>
+<h2>Visual identity adjustments and website design</h2>
+<p> </p>
+<h3>Colors of PlussMobil</h3>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35//colors.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35//responsive/colors-xs.png 300w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-sm.png 480w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-md.png 749w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xxxl.png 2560w"  alt="" width="2826" height="718"></figure>
+<p> </p>
+<h3>Icon design</h3>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/icons-s.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xxxl.png 2560w"  alt="" width="1147" height="462"></figure>
+<p> </p>
             ]]>
         </content>
     </entry>
