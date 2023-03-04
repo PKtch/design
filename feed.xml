@@ -276,67 +276,6 @@
         </content>
     </entry>
     <entry>
-        <title>Website Design — Sixty Technologies</title>
-        <author>
-            <name>PK</name>
-        </author>
-        <link href="https://PKtch.github.io/design/website-sixty.html"/>
-        <id>https://PKtch.github.io/design/website-sixty.html</id>
-
-        <updated>2021-05-20T10:20:20+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/14/Main.png" alt="" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/14/Main.png" alt="" />
-                
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/Text-Copy-6.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-6-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-6-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-6-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-6-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-6-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-6-xxxl.png 2560w"  height="2784" width="2880" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/BL.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/BL-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/BL-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/BL-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/BL-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/BL-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/BL-xxxl.png 2560w"  height="1620" width="2880" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/Text-Copy-8.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-8-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-8-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-8-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-8-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-8-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-8-xxxl.png 2560w"  height="3094" width="2880" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/EL-design.gif" height="1046" width="2202" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/Text-Copy-7.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-7-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-7-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-7-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-7-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-7-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-7-xxxl.png 2560w"  height="1842" width="2880" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/Saying.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/Saying-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-xxxl.png 2560w"  height="1376" width="2880" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/Text-Copy-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-2-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/Text-Copy-2-xxxl.png 2560w"  height="3426" width="2880" alt="" />
-      
-    </figure>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/14/Saying-Copy.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/14/responsive/Saying-Copy-xs.png 300w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-Copy-sm.png 480w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-Copy-md.png 749w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-Copy-xl.png 1200w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-Copy-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/14/responsive/Saying-Copy-xxxl.png 2560w"  height="3426" width="2880" alt="" />
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>eShop widget over broadcast video</title>
         <author>
             <name>PK</name>
@@ -525,6 +464,64 @@
   <p>
     &nbsp;
   </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ordering Application</title>
+        <author>
+            <name>PK</name>
+        </author>
+        <link href="https://PKtch.github.io/design/order.html"/>
+        <id>https://PKtch.github.io/design/order.html</id>
+
+        <updated>2021-03-31T03:20:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/design/media/posts/26/order-vipps.png" alt="" />
+                     &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/design/media/posts/26/order-vipps.png" alt="" />
+                
+  <p>
+    &nbsp;&nbsp;
+  </p>
+
+  <p>
+    &nbsp;&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/26/diagram.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/26/responsive/diagram-xs.png 300w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-sm.png 480w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-md.png 749w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-xl.png 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/diagram-xxxl.png 2560w"  height="542" width="2136" alt="" />
+      
+    </figure>
+
+  <p>
+    &nbsp;
+  </p>
+
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/26/Ordering-ba1.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-md.jpg 749w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba1-xxxl.jpg 2560w"  height="4664" width="6000" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/26/Ordering-ba2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-md.jpg 749w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/Ordering-ba2-xxxl.jpg 2560w"  height="4664" width="6000" alt="" />
+      
+    </figure>
+
+    <figure class="post__image post__image--full">
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/26/restaurant.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-md.jpg 749w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/26/responsive/restaurant-xxxl.jpg 2560w"  height="4664" width="6000" alt="" />
+      
+    </figure>
+
+    <figure class="max640 post__image post__image--center">
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/26/ordr.gif" height="1634" width="1634" alt="" />
+      
+    </figure>
             ]]>
         </content>
     </entry>
