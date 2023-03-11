@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Designed with ♥</title>
     <link href="https://PKtch.github.io/design/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/design" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://PKtch.github.io/design/website-design-abbl.html"/>
         <id>https://PKtch.github.io/design/website-design-abbl.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/37/ABBL-c-2.png" medium="image" />
 
         <updated>2023-03-08T23:09:40+01:00</updated>
             <summary>
@@ -26,14 +27,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/37/ABBL-c-2.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/37/ABBL-c-2.png" class="type:primaryImage" alt="" /></p>
                 <p>ABBL is a membership organization with a focus to provide members with affordable housing, as well as to provide services for our affiliated housing companies. As part of membership offer, ABBL have many good discount agreements. With a lang history, ABBL is member-driven since 1945.</p>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/37/ABBL-diagonal.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xs.png 300w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-sm.png 480w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-md.png 749w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xl.png 1200w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xxxl.png 2560w"  alt="" width="13294" height="7755"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/37/ABBL-diagonal.png" alt="" width="13294" height="7755" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xs.png 300w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-sm.png 480w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-md.png 749w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xl.png 1200w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-diagonal-xxxl.png 2560w"></figure>
 <p> </p>
 <p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/37/ABBL-1.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xs.png 300w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-sm.png 480w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-md.png 749w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xxxl.png 2560w"  alt="" width="3101" height="1948"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/37/ABBL-1.png" alt="" width="3101" height="1948" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xs.png 300w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-sm.png 480w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-md.png 749w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-1-xxxl.png 2560w"></figure>
 <p> </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/37/ABBL-2png-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-md.png 749w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xxxl.png 2560w"  alt="" width="2637" height="1948"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/37/ABBL-2png-2.png" alt="" width="2637" height="1948" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-md.png 749w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/37/responsive/ABBL-2png-2-xxxl.png 2560w"></figure>
             ]]>
         </content>
     </entry>
@@ -44,6 +45,7 @@
         </author>
         <link href="https://PKtch.github.io/design/ansa-branding-and-website.html"/>
         <id>https://PKtch.github.io/design/ansa-branding-and-website.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/34/Frame-ansa-2.png" medium="image" />
 
         <updated>2023-02-24T03:06:46+01:00</updated>
             <summary>
@@ -54,22 +56,22 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/34/Frame-ansa-2.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/34/Frame-ansa-2.png" class="type:primaryImage" alt="" /></p>
                 <p>The Association of Norwegian Students Abroad is a non-profit and membership based organisation aiming to voice the educational, cultural, political and economic interests of Norwegian students studying outside Norway and to promote overseas students as a valuable resource to domestic employers.</p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/from-to-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xxxl.png 2560w"  alt="" width="3508" height="2905"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/from-to-2.png" alt="" width="3508" height="2905" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/from-to-2-xxxl.png 2560w"></figure>
 <p>Playing with new logo, shapes and colors for SoME</p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/some.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/some-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/some-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/some-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/some-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/some-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/some-xxxl.png 2560w"  alt="" width="2952" height="5432"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/some.png" alt="" width="2952" height="5432" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/some-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/some-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/some-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/some-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/some-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/some-xxxl.png 2560w"></figure>
 <p>New color pallet improves visual communication with mostly very young audience </p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/colors.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/colors-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-xxxl.png 2560w"  alt="" width="3508" height="3352"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/colors.png" alt="" width="3508" height="3352" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/colors-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/colors-xxxl.png 2560w"></figure>
 <p>Examples of mobile interface</p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/mobile-3.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xxxl.png 2560w"  alt="" width="3640" height="5995"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/mobile-3.png" alt="" width="3640" height="5995" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/mobile-3-xxxl.png 2560w"></figure>
 <p>Webdesign</p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/Frame-1000002068-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xxxl.png 2560w"  alt="" width="2080" height="1284"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/Frame-1000002068-2.png" alt="" width="2080" height="1284" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/Frame-1000002068-2-xxxl.png 2560w"></figure>
 <p> </p>
 <p>CTA blocks</p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/ctas.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/ctas-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-xxxl.png 2560w"  alt="" width="1920" height="3000"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/ctas.png" alt="" width="1920" height="3000" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/ctas-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/ctas-xxxl.png 2560w"></figure>
 <p>UI components and blocs</p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/UI-Components.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xxxl.png 2560w"  alt="" width="7575" height="3659"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/34/UI-Components.png" alt="" width="7575" height="3659" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xs.png 300w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-sm.png 480w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-md.png 749w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xl.png 1200w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/34/responsive/UI-Components-xxxl.png 2560w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -81,25 +83,21 @@
         </author>
         <link href="https://PKtch.github.io/design/platform-for-developing-alternative-models-of-living.html"/>
         <id>https://PKtch.github.io/design/platform-for-developing-alternative-models-of-living.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/18/Artboard-d-19-xxxl.png" medium="image" />
 
         <updated>2021-02-17T21:58:09+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/18/Artboard-d-19-xxxl.png" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/18/Artboard-d-19-xxxl.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/18/Artboard-d-19-xxxl.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/18/Artboard-s-20-xxxl.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xs.png 300w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-sm.png 480w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-md.png 749w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xl.png 1200w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xxxl.png 2560w"  height="1440" width="2560" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/18/Artboard-s-20-xxxl.png" height="1440" width="2560" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xs.png 300w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-sm.png 480w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-md.png 749w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xl.png 1200w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/18/responsive/Artboard-s-20-xxxl-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/18/desktop1-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-md.png 749w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xxxl.png 2560w"  height="3921" width="5760" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/18/desktop1-2.png" height="3921" width="5760" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-md.png 749w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/18/responsive/desktop1-2-xxxl.png 2560w">
       
     </figure>
             ]]>
@@ -112,20 +110,21 @@
         </author>
         <link href="https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design-2.html"/>
         <id>https://PKtch.github.io/design/allsvenskan-ui-and-broadcast-design-2.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/17/main-a.png" medium="image" />
 
         <updated>2023-02-26T00:42:29+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://PKtch.github.io/design/media/posts/17/main-a.png" alt="" />
-                     Allsvenskan is a Swedish professional league for men's association football clubs. Cross over effect (wipe) Second League style 
+                    Allsvenskan is a Swedish professional league for men's association football clubs. Cross over effect (wipe) Second League style
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/17/main-a.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/17/main-a.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/device1.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/device1-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-xxxl.png 2560w"  height="2160" width="1992" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/device1.png" height="2160" width="1992" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/device1-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/device1-xxxl.png 2560w">
       
     </figure>
 
@@ -134,22 +133,22 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/zScorebug-1.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/zScorebug-1.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/zScorebug-1-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-6.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-6.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-6-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-21.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xxxl.png 2560w"  height="3240" width="5760" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-21.png" height="3240" width="5760" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-21-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-19.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-19.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-19-xxxl.png 2560w">
       
     </figure>
 
@@ -162,32 +161,32 @@
     </h2>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/anim-grid-2.gif" height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/anim-grid-2.gif" height="1080" width="1920" alt="" >
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-24.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-24.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-24-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-29.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-29.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-29-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-31.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-31.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-31-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-42.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-42.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-42-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-53.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-53.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-53-xxxl.png 2560w">
       
     </figure>
 
@@ -196,7 +195,7 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-25.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-Symetrisk-Asymetrisk-Copy-25.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-Symetrisk-Asymetrisk-Copy-25-xxxl.png 2560w">
       
     </figure>
 
@@ -209,7 +208,7 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-14.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/HD-TV-1-Copy-14.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/HD-TV-1-Copy-14-xxxl.png 2560w">
       
     </figure>
 <div><figure class="post__video post__video--wide"><div class="post__iframe"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/422582619?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
@@ -217,7 +216,7 @@
 </div>
 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/Scorebug-1-Copy.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/17/Scorebug-1-Copy.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xs.png 300w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-sm.png 480w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-md.png 749w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xl.png 1200w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/17/responsive/Scorebug-1-Copy-xxxl.png 2560w">
       
     </figure>
 
@@ -234,6 +233,7 @@
         </author>
         <link href="https://PKtch.github.io/design/mobile-subscription-services.html"/>
         <id>https://PKtch.github.io/design/mobile-subscription-services.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/35/cover-pmbl2.png" medium="image" />
 
         <updated>2023-03-04T12:18:06+01:00</updated>
             <summary>
@@ -244,7 +244,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/35/cover-pmbl2.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/35/cover-pmbl2.png" class="type:primaryImage" alt="" /></p>
                 <p>PlussMobil is part of Aller Media, one of Norway's largest media houses. PlussMobil rents a mobile network from Telenor and sells subscription services to Aller's  audience.</p>
 <h2>Subscription</h2>
 <p>Project challenge, was to convert visitor to subscriber while having to fill in long and complex steps (fixed decision) by providing more pleasant user interface and experience. These ware the foundation principles: </p>
@@ -254,16 +254,16 @@
 <li>Revealing form sections as they become relevant, not to scare subscriber</li>
 <li>Great mobile experience with cozy touch targets</li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/cover12.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/cover12-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xxxl.png 2560w"  alt="" width="3080" height="1897"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/pmbl3-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xxxl.png 2560w"  alt="" width="1588" height="3494"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/cover12.png" alt="" width="3080" height="1897" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/cover12-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/cover12-xxxl.png 2560w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/pmbl3-2.png" alt="" width="1588" height="3494" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/pmbl3-2-xxxl.png 2560w"></figure>
 <p> </p>
 <h2>Visual identity adjustments and website design</h2>
 <p> </p>
 <h3>Colors of PlussMobil</h3>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35//colors.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35//responsive/colors-xs.png 300w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-sm.png 480w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-md.png 749w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xxxl.png 2560w"  alt="" width="2826" height="718"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35//colors.png" alt="" width="2826" height="718" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35//responsive/colors-xs.png 300w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-sm.png 480w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-md.png 749w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35//responsive/colors-xxxl.png 2560w"></figure>
 <p> </p>
 <h3>Icon design</h3>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/icons-s.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xxxl.png 2560w"  alt="" width="1147" height="462"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/35/icons-s.png" alt="" width="1147" height="462" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xs.png 300w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-sm.png 480w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-md.png 749w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xl.png 1200w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/35/responsive/icons-s-xxxl.png 2560w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -275,29 +275,25 @@
         </author>
         <link href="https://PKtch.github.io/design/art-gallery-app.html"/>
         <id>https://PKtch.github.io/design/art-gallery-app.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/19/KH-11.jpg" medium="image" />
 
         <updated>2023-03-08T22:47:10+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/19/KH-11.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/19/KH-11.jpg" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/19/KH-11.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/19/KH-2-xxxl.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xs.png 300w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-sm.png 480w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-md.png 749w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xl.png 1200w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xxxl.png 2560w"  height="1338" width="1671" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/19/KH-2-xxxl.png" height="1338" width="1671" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xs.png 300w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-sm.png 480w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-md.png 749w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xl.png 1200w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-2-xxxl-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/19/KH-3-xxxl-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-md.png 749w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xxxl.png 2560w"  height="1338" width="1680" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/19/KH-3-xxxl-2.png" height="1338" width="1680" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-md.png 749w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/19/responsive/KH-3-xxxl-2-xxxl.png 2560w">
       
     </figure>
             ]]>
@@ -310,19 +306,15 @@
         </author>
         <link href="https://PKtch.github.io/design/eshop-widget-over-broadcast.html"/>
         <id>https://PKtch.github.io/design/eshop-widget-over-broadcast.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/5/v1.png" medium="image" />
 
         <updated>2020-11-23T20:33:06+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/5/v1.png" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/5/v1.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/5/v1.png" class="type:primaryImage" alt="" /></p>
                 <p> </p>
-<figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/5/v2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/5/responsive/v2-xs.png 300w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-sm.png 480w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-md.png 749w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-xxxl.png 2560w"  width="995" height="1013"></figure>
+<figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/5/v2.png" width="995" height="1013" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/5/responsive/v2-xs.png 300w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-sm.png 480w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-md.png 749w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/5/responsive/v2-xxxl.png 2560w"></figure>
 <p> </p>
 <figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/5/eshp.gif" width="550" height="550"></figure>
             ]]>
@@ -335,18 +327,14 @@
         </author>
         <link href="https://PKtch.github.io/design/poll.html"/>
         <id>https://PKtch.github.io/design/poll.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/2/Featured-poll.png" medium="image" />
 
         <updated>2020-05-26T02:08:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/design/media/posts/2/Featured-poll.png" alt="" />
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/2/Featured-poll.png" alt="" />
-                <figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/2/p2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/2/responsive/p2-xs.png 300w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-sm.png 480w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-md.png 749w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-xxxl.png 2560w"  alt="" width="1010" height="954"></figure><figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/2/p3.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/2/responsive/p3-xs.png 300w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-sm.png 480w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-md.png 749w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-xl.png 1200w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-xxxl.png 2560w"  alt="" width="1010" height="954"></figure>
+                    <p><img src="https://PKtch.github.io/design/media/posts/2/Featured-poll.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/2/p2.png" alt="" width="1010" height="954" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/2/responsive/p2-xs.png 300w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-sm.png 480w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-md.png 749w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/2/responsive/p2-xxxl.png 2560w"></figure><figure class="post__image--center"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/2/p3.png" alt="" width="1010" height="954" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/2/responsive/p3-xs.png 300w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-sm.png 480w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-md.png 749w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-xl.png 1200w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/2/responsive/p3-xxxl.png 2560w"></figure>
 <figure class="post__video post__video--wide"><div class="post__iframe"><iframe loading="lazy" width="425" height="350" src="https://player.vimeo.com/video/422507821?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></figure>
 <p> </p>
 <p> </p>
@@ -360,45 +348,46 @@
         </author>
         <link href="https://PKtch.github.io/design/norgeskart-app.html"/>
         <id>https://PKtch.github.io/design/norgeskart-app.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/22/mobile-norgeskart1.jpg" medium="image" />
 
         <updated>2021-03-17T11:11:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://PKtch.github.io/design/media/posts/22/mobile-norgeskart1.jpg" alt="" />
-                     Logo Design 
+                    Logo Design
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/22/mobile-norgeskart1.jpg" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/22/mobile-norgeskart1.jpg" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/Logoz.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-md.jpg 749w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xxxl.jpg 2560w"  height="1112" width="1964" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/Logoz.jpg" height="1112" width="1964" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-md.jpg 749w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/Logoz-xxxl.jpg 2560w">
       <figcaption>Logo Design</figcaption>
     </figure>
 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/mobile-norgeskart2.jpg" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-md.jpg 749w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xxxl.jpg 2560w"  height="2056" width="3110" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/mobile-norgeskart2.jpg" height="2056" width="3110" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xs.jpg 300w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-sm.jpg 480w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-md.jpg 749w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xl.jpg 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xxl.jpg 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/mobile-norgeskart2-xxxl.jpg 2560w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/3-4-screens.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xxxl.png 2560w"  height="998" width="1523" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/3-4-screens.png" height="998" width="1523" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/3-4-screens-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/3-1screens.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xxxl.png 2560w"  height="983" width="1499" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/3-1screens.png" height="983" width="1499" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/3-1screens-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/3-screens.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xxxl.png 2560w"  height="983" width="1499" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/3-screens.png" height="983" width="1499" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/3-screens-xxxl.png 2560w">
       
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/watch.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/watch-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-xxxl.png 2560w"  height="1080" width="1920" alt="" />
+      <img loading="lazy" src="https://PKtch.github.io/design/media/posts/22/watch.png" height="1080" width="1920" alt=""  sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/22/responsive/watch-xs.png 300w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-sm.png 480w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-md.png 749w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-xl.png 1200w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/22/responsive/watch-xxxl.png 2560w">
       
     </figure>
             ]]>
@@ -411,6 +400,7 @@
         </author>
         <link href="https://PKtch.github.io/design/reinventing-great-experience.html"/>
         <id>https://PKtch.github.io/design/reinventing-great-experience.html</id>
+        <media:content url="https://PKtch.github.io/design/media/posts/36/SOL-cover.png" medium="image" />
 
         <updated>2023-03-07T08:08:53+01:00</updated>
             <summary>
@@ -421,14 +411,14 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://PKtch.github.io/design/media/posts/36/SOL-cover.png" alt="" />
+                    <p><img src="https://PKtch.github.io/design/media/posts/36/SOL-cover.png" class="type:primaryImage" alt="" /></p>
                 <p>Putting reader's in steering wheel with all constraints that exist. </p>
 <h3>Case 1 </h3>
 <p>While reading, after login these suggestions are made in attempt to develop relationship with reader who would create an account and save interest tags.    </p>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/36/SOL-3mock-case1.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xs.png 300w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-sm.png 480w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-md.png 749w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xxxl.png 2560w"  alt="" width="1450" height="904"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/36/SOL-3mock-case1.png" alt="" width="1450" height="904" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xs.png 300w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-sm.png 480w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-md.png 749w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xl.png 1200w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/36/responsive/SOL-3mock-case1-xxxl.png 2560w"></figure>
 <p> </p>
 <h3>Case 1 </h3>
-<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/36/case-2.png" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/36/responsive/case-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-md.png 749w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-xxxl.png 2560w"  alt="" width="1274" height="1435"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://PKtch.github.io/design/media/posts/36/case-2.png" alt="" width="1274" height="1435" sizes="(max-width: 2560px) 100vw, 2560px" srcset="https://PKtch.github.io/design/media/posts/36/responsive/case-2-xs.png 300w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-sm.png 480w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-md.png 749w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-xl.png 1200w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-xxl.png 1600w ,https://PKtch.github.io/design/media/posts/36/responsive/case-2-xxxl.png 2560w"></figure>
 <p> </p>
             ]]>
         </content>
